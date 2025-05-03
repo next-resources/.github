@@ -1,2 +1,0 @@
-# .github
-Hub Page Description
