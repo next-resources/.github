@@ -40,4 +40,4 @@ All resources in this organization are released under the **MIT License** unless
 
 ## 🌐 Stay Connected
 
-- 💬 Discussions and support: coming soon via Discord
+- 💬 Discussions and support: [Discord](https://discord.gg/QgkEjnDC84)
