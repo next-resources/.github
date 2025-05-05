@@ -20,7 +20,8 @@ We build systems that:
 | Resource            | Description                                      |
 |---------------------|--------------------------------------------------|
 | [`next-flashbang`](https://github.com/next-resources/next-flashbang) | The most optimized flashbang system for FiveM |
-| [`next-scoreboard`](https://github.com/next-resources/next-flashbang) | Coming soon! |
+| [`next-kevlar`](https://github.com/next-resources/next-kevlar) | Coming soon! |
+| [`next-scoreboard`](https://github.com/next-resources/next-scoreboard) | Coming soon! |
 
 ---
 
