@@ -1,6 +1,6 @@
-# 🧠 Next Scripts | Secure & Optimized FiveM Resources
+# 🧠 Next Extend | Secure & Optimized FiveM Resources
 
-Welcome to the official GitHub organization for **Next Scripts** — a collection of optimized, secure, and immersive **FiveM** resources built for performance, realism, and modern RP experiences.
+Welcome to the official GitHub organization for **Next Extend** — a collection of optimized, secure, and immersive **FiveM** resources built for performance, realism, and modern RP experiences.
 
 ---
 
@@ -41,4 +41,4 @@ All resources in this organization are released under the **MIT License** unless
 
 ## 🌐 Stay Connected
 
-- 💬 Discussions and support: [Discord](https://discord.gg/QgkEjnDC84)
+- 💬 Discussions and support: [Discord](https://discord.nextextend.com)
