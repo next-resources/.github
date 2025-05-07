@@ -20,7 +20,7 @@ We build systems that:
 | Resource            | Description                                      |
 |---------------------|--------------------------------------------------|
 | [`next-flashbang`](https://github.com/next-resources/next-flashbang) | The most optimized flashbang system for FiveM |
-| [`next-kevlar`](https://github.com/next-resources/next-kevlar) | Coming soon! |
+| [`next-kevlar`](https://github.com/next-resources/next-kevlar) | Advanced modular armor plater carrier system |
 | [`next-scoreboard`](https://github.com/next-resources/next-scoreboard) | Coming soon! |
 
 ---
