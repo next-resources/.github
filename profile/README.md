@@ -19,9 +19,9 @@ We build systems that:
 
 | Resource            | Description                                      |
 |---------------------|--------------------------------------------------|
-| [`next-kevlar`](https://github.com/next-resources/next-kevlar) | Advanced modular armor plate carrier system |
-| [`next-flashbang`](https://github.com/next-resources/next-flashbang) | The most optimized flashbang system for FiveM |
-| [`next-scoreboard`](https://github.com/next-resources/next-scoreboard) | Coming soon! |
+| [`next-kevlar`](https://github.com/nextextend/next-kevlar) | Advanced modular armor plate carrier system |
+| [`next-flashbang`](https://github.com/nextextend/next-flashbang) | The most optimized flashbang system for FiveM |
+| [`next-scoreboard`](https://github.com/nextextend/next-scoreboard) | Coming soon! |
 
 ---
 
